@@ -2,7 +2,7 @@
 
 Yegor Chernyshev [@yCherny](https://github.com/ycherny)
 
-Yulian Kraynyak [@ykray](https://github.com/ykrx)
+Yulian Kraynyak [@ykrx](https://github.com/ykrx)
 
 ---
 
