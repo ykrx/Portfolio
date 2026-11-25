@@ -6,10 +6,10 @@ https://user-images.githubusercontent.com/43590347/208270653-ef3a7e3b-ff05-4e40-
 
 ![uxi-screenshot](/assets/uxi-ss.png)
 
-**UXinsight (UXI)** is a system that tracks & analyzes user experiences (UX), extracting “unseen” insights from user behavior.
+**UXinsight (UXI)** tracks & analyzes user journeys, extracting invisible, generalized insights from user behavior.
 
-UXI started as my final project for _Information Visualization_ at NYU, however quickly spiraled into a much larger idea—evaluating and improving UX using AI (ie: predicting user interface & experience issues and improving interface design by modeling user behavior).
+Final project for _Information Visualization_ course at NYU. UX tracking and behavior analysis to infer opportunities for UI/UX improvement.
 
 ### Built with
 
-`typescript` `next` `react` `redux` `nx` `d3` `nosql(mongodb)` `scss` `mui`
+`typescript` `next` `redux` `d3` `mongodb` `scss` `mui`
